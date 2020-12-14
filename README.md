@@ -17,8 +17,8 @@ Insert Screenshots of badges below
 <!--   <img src="https://raw.githubusercontent.com/HerndonE/RTS-Game-Using-Unity/main/Documents/Images/Image4.png" width="400" /> -->
 <!-- </p> -->
 
-##App Walkthrough (Video)
-https://drive.google.com/file/d/1SuY3qcQ_STzVaPscllXLPH9D3vbpZC0h/view?usp=sharing
+## App Walkthrough [Video](https://drive.google.com/file/d/1SuY3qcQ_STzVaPscllXLPH9D3vbpZC0h/view?usp=sharing)
+
 
 ## Download App In Playstore [Here]()
 
