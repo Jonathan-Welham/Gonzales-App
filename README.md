@@ -10,20 +10,11 @@ The City of Gonzales partnered up with the Computer Science Department at Califo
 
 # In App-Images    
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image1.png" width="250" />
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image2.png" width="250" /> 
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image3.png" width="250" />
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image4.png" width="250" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image1.png" width="240" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image2.png" width="240" /> 
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image3.png" width="240" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image4.png" width="240" />
 </p>
-
-
-<!-- # Game Images: -->    
-<!-- <p float="left"> -->
-<!--   <img src="https://raw.githubusercontent.com/HerndonE/RTS-Game-Using-Unity/main/Documents/Images/Image1.png" width="400" /> -->
-<!--   <img src="https://raw.githubusercontent.com/HerndonE/RTS-Game-Using-Unity/main/Documents/Images/Image2.png" width="400" />  -->
-<!--   <img src="https://raw.githubusercontent.com/HerndonE/RTS-Game-Using-Unity/main/Documents/Images/Image3.png" width="400" /> -->
-<!--   <img src="https://raw.githubusercontent.com/HerndonE/RTS-Game-Using-Unity/main/Documents/Images/Image4.png" width="400" /> -->
-<!-- </p> -->
 
 ## App Walkthrough [Video](https://drive.google.com/file/d/1SuY3qcQ_STzVaPscllXLPH9D3vbpZC0h/view?usp=sharing)
 
