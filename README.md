@@ -10,10 +10,10 @@ The City of Gonzales partnered up with the Computer Science Department at Califo
 
 # In App-Images    
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image2.png" width="300" /> 
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image3.png" width="300" />
-  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image4.png" width="300" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image1.png" width="270" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image2.png" width="270" /> 
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image3.png" width="270" />
+  <img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image4.png" width="270" />
 </p>
 
 
