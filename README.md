@@ -2,12 +2,7 @@
 The City of Gonzales partnered up with the Computer Science Department at California State Monterey Bay to make a mobile application for its community to help eliminate the Digital Divide. This application aims to achieve community feedback while having access to important information and announcements from the Gonzales city government through their android mobile devices.
 
 ![visitors](https://badges.pufler.dev/visits/Jonathan-Welham/Gonzales-App)
-![](https://img.shields.io/github/last-commit/Jonathan-Welham/CityOfGonzalesApp)
-![](https://img.shields.io/github/repo-size/Jonathan-Welham/CityOfGonzalesApp)
-![](https://img.shields.io/github/contributors/Jonathan-Welham/CityOfGonzalesApp)
-![](https://img.shields.io/github/languages/top/Jonathan-Welham/CityOfGonzalesApp) 
-![](https://img.shields.io/github/stars/Jonathan-Welham/CityOfGonzalesApp)
-![](https://img.shields.io/github/forks/Jonathan-Welham/CityOfGonzalesApp?style=social)
+<img src="https://raw.githubusercontent.com/Jonathan-Welham/Gonzales-App/main/Images/Image5.png" width="240" />
 
 # In App-Images    
 <p float="left">
@@ -19,7 +14,7 @@ The City of Gonzales partnered up with the Computer Science Department at Califo
 
 ## App Walkthrough [Video](https://drive.google.com/file/d/1SuY3qcQ_STzVaPscllXLPH9D3vbpZC0h/view?usp=sharing)
 
-## Research Paper [Here]()
+## Research Paper [Here](https://docs.google.com/document/d/1jqHecdezLdpfSKj4Vh9QzYCyVrE-ZDj7fwXHx96x-VY/edit?usp=sharing)
 
 ## Download App In Playstore [Here]()
 
