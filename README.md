@@ -14,7 +14,7 @@ The City of Gonzales partnered up with the Computer Science Department at Califo
 
 ## App Walkthrough [Video](https://drive.google.com/file/d/1SuY3qcQ_STzVaPscllXLPH9D3vbpZC0h/view?usp=sharing)
 
-## Research Paper [Here](https://docs.google.com/document/d/1jqHecdezLdpfSKj4Vh9QzYCyVrE-ZDj7fwXHx96x-VY/edit?usp=sharing)
+## Research Paper [Here](https://drive.google.com/file/d/1V4jAo0-iTBJQZl5iKxZEg0yFySzii3GJ/view?usp=sharing)
 
 ## App Featured in CSUMB [Newsletter](https://mailchi.mp/afb283146125/scd-december-newsletter-2020?e=fc2e9a88ab)    
 
