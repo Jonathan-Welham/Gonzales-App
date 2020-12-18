@@ -16,7 +16,9 @@ The City of Gonzales partnered up with the Computer Science Department at Califo
 
 ## Research Paper [Here](https://docs.google.com/document/d/1jqHecdezLdpfSKj4Vh9QzYCyVrE-ZDj7fwXHx96x-VY/edit?usp=sharing)
 
-## Download App In Playstore [Here]()
+## App Featured in CSUMB [Newsletter](https://mailchi.mp/afb283146125/scd-december-newsletter-2020?e=fc2e9a88ab)    
+
+## Download App in Playstore [Here]()
 
 ## Jonathan Welham    
 **Role:** Backend and Mobile Application Developer.    
