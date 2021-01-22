@@ -18,7 +18,7 @@ The City of Gonzales partnered with the Computer Science Department at Californi
 
 ## App Featured in CSUMB [Newsletter](https://mailchi.mp/afb283146125/scd-december-newsletter-2020?e=fc2e9a88ab)    
 
-## Download App in Playstore [Here]()
+## Download App in Playstore [Here](https://play.google.com/store/apps/details?id=com.csumb.cityofgonzales&hl=en_US&gl=US)
 
 ## Jonathan Welham    
 **Role:** Backend and Mobile Application Developer.    
